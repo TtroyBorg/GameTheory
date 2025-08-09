@@ -1,6 +1,4 @@
-Thanks, Nima! I’ve reviewed your friend’s README and now I’ll help you write a similar one for your ICU bed allocation project. It will be clean, math-rich, and explanatory—just like theirs.
 
----
 
 # ICU Bed Allocation via Game Theory
 
