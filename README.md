@@ -32,7 +32,3 @@ $$
 - Insurance discounts reduce patient payments under stable matching.
 
 The full methodology and results are documented in the LaTeX report.
-
----
-
-Let me know if you'd like to include code snippets or visualizations next!
